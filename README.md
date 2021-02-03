@@ -4,7 +4,7 @@ Contains Code of Privacy Computation Demo presented at CCS'18 conference.
 
 The privacy web-page is built on top of the python web framework django and can be started from the directory "webpage" with the command "python3 manage.py runserver"
 
-If you are going to run thisfor more than playig around, please do not forget to change the Django Secret Key! 
+If you have intentions with this code beyond playig around, please do not forget to change the Django Secret Key! 
 
 For addidional information on Probability Buckets, see the [Github Repo](https://github.com/sommerda/privacybuckets), and realted publications [1] and [2].
 
